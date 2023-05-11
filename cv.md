@@ -4,7 +4,7 @@
 
 - Email: ladaballogit@gmail.com
 
-- Github: https://github.com/AngelinaAnashkevich
+- Github: https://github.com/ladaballogit
 
 # SUMMARY
 > My goal is to become a highly skilled developer and use my knowledge to create software that will improve people's lives. I am open to learning new technologies and frameworks, and am willing to deepen my knowledge of programming. My strengths include an analytical mindset, the ability to work in a team and to learn quickly.
@@ -39,7 +39,7 @@
 
 # PROJECTS
 
-Моё СV на GitHub: [https://github.com/AngelinaAnashkevich/CV/blob/markdowm-cv/cv.md](https://github.com/AngelinaAnashkevich/CV/blob/markdowm-cv/cv.md)
+Моё СV на GitHub: [https://github.com/ladaballogit/CV/blob/markdowm-cv/cv.md](https://github.com/ladaballogit/CV/blob/markdowm-cv/cv.md)
 
 # EDUCATION
 
