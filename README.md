@@ -1,1 +1,1 @@
- https://ladaballogit.github.io/cv/cv
+ https://ladaballogit.github.io/CV/cv
