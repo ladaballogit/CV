@@ -17,19 +17,17 @@
 
 # CODE
 ```
-<nav class="navbar">
-  <ul class="navbar-nav">
-    <li class="nav-item">
-      <a class="nav-link" href="#">Главная</a>
-    </li>
-    <li class="nav-item">
-      <a class="nav-link" href="#">О нас</a>
-    </li>
-    <li class="nav-item">
-      <a class="nav-link" href="#">Контакты</a>
-    </li>
-  </ul>
-</nav>
+      use16               ;Генерировать 16-битный код
+      org 100h            ;Программа начинается с адреса 100h
+       
+          mov dx,hello    ;В DX адрес строки.
+          mov ah,9        ;Номер функции DOS.
+          int 21h         ;Обращение к функции DOS.
+       
+          mov ax,4C00h    ;\
+          int 21h         ;/ Завершение программы
+      ;-------------------------------------------------------
+      hello db 'Hello, world!$' 
 
 ```
 
